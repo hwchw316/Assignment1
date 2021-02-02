@@ -22,3 +22,5 @@ Users are able to filter their P/L in days/weeks/months/year
 ----------------------------
 <img src="stockappskeleton.png" alt="" srcset="">
 ![image](stockappskeleton.png)
+
+-----------------------------
